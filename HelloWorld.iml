@@ -49,5 +49,15 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MAVEN_REPOSITORY$/jnlp" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MAVEN_REPOSITORY$/jnlp" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>
